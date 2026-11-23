@@ -20,3 +20,4 @@ How HTTPS protects data, how SSL works, and why auto-renewal is important.
 
 ## Output
 ![My Website Output](Mysite.png)
+![License Status](Output.png)
