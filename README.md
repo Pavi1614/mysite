@@ -19,5 +19,4 @@ Hosted with GitHub Pages
 How HTTPS protects data, how SSL works, and why auto-renewal is important.
 
 ## Output
-
-![My Website Output](output.png)
+![My Website Output](Screenshot (1).png)
