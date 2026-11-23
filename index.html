@@ -6,7 +6,7 @@
 <div id="box" style="padding:15px; border-radius:10px;">Checking license...</div>
 
 <script>
-fetch('licenses.json')
+fetch('licenses')
 .then(r => r.json())
 .then(data => {
   let box = document.getElementById('box');
